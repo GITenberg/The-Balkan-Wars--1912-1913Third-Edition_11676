@@ -1,0 +1,28 @@
+_repo: The-Balkan-Wars--1912-1913Third-Edition_11676
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Schurman, Jacob Gould
+    alias: Schurman, J. G. (Jacob Gould)
+    birthdate: 1854
+    deathdate: 1942
+    gutenberg_agent_id: '4066'
+    url: http://www.gutenberg.org/2009/agents/4066
+    wikipedia: http://en.wikipedia.org/wiki/Jacob_Gould_Schurman
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11676'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DR'
+- !lcsh 'Balkan Peninsula -- History -- War of 1912-1913'
+- GITenberg
+title: 'The Balkan Wars: 1912-1913
+
+  Third Edition'
+url: http://www.gutenberg.org/ebooks/11676
